@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUZhYWffSU0=",
+  "success": true,
+  "projectFilePath": "E:\\project\\TextRPG\\TextRPG\\TextRPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycom\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

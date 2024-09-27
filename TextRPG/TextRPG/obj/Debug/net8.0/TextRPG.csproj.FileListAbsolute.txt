@@ -1,0 +1,17 @@
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+E:\project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+E:\project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+E:\project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+E:\project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+E:\project\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.AssemblyReference.cache
+E:\project\TextRPG\TextRPG\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\project\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.Up2Date
